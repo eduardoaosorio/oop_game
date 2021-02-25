@@ -17,4 +17,10 @@ The player continues to select letters until they guess the phrase (and win), or
 If the player completes the phrase before they run out of guesses, a winning screen appears. If the player guesses incorrectly five times, a losing screen appears.
 
 A player can guess a letter only once. After they've guessed a letter, the program will disable that letter on the onscreen keyboard.
- 
+
+## About Style Changes
+
+The orginal styles have been slightly modified:
+
+- The font has been updated from "Montserrat" to "IBM Plex Sans".
+- Color #003b73 has replaced #3a3f58 and color #67b7d1 has replaced #4ac0d5.
