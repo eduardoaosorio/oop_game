@@ -91,7 +91,7 @@ class Game {
       overlayDiv.querySelector("h1").textContent = "You Win!";
       overlayDiv.className = "win";
     } else {
-      overlayDiv.querySelector("h1").textContent = "You Lost!";
+      overlayDiv.querySelector("h1").textContent = "You Lose!";
       overlayDiv.className = "lose";
     }
   }
