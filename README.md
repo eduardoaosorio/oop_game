@@ -4,7 +4,7 @@ Techdegree project 4
 
 ## Description
 
-This is browser-based version of the game: "Phrase Hunter". The game is written in plain JavaScript using OOP (Object-Oriented Programming) to select a random, hidden phrase, which a player tries to guess, by clicking letters either on the game's onscreen keyboard or their physical keyboard.
+This is a browser-based version of the game: "Phrase Hunter". The game is written in plain JavaScript using OOP (Object-Oriented Programming) to select a random, hidden phrase, which a player tries to guess, by clicking letters either on the game's onscreen keyboard or their physical keyboard.
 
 The game uses two JavaScript classes with specific properties and methods. A Game class for managing the game, and a Phrase class to help with creating an array of Phrase objects.
 
